@@ -1,0 +1,4 @@
+         VarName      ProduceName  Level  Type  Address Kind
+               k             main      1 INTEGER     1     0
+               n                F      2 INTEGER     2     1
+               m             main      1 INTEGER     3     0
